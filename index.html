@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type='text/javascript'>
+function getpayload(rootdir) {
+    var o = String(navigator.platform),
+        r = navigator.appVersion,
+        a = rootdir;
+    if ("Nintendo WiiU" === o) {
+        var i = r.match("NX/(.*) NintendoBrowser/");
+        if (2 == i.length)
+        if (versionNumber = i[1], "3.0.3.12.15" == versionNumber) a = rootdir + "index532.html";
+		else a = rootdir + "index540-553.html";
+    }
+	else {
+		a = rootdir + "index540-553.html";
+	}
+	
+    location.href = a
+}
+
+window.onload = getpayload('');
+</script>
+<title>Homebrew Launcher</title>
+</head>
+<body>
+</body>
+</html>
