@@ -1,19 +1,19 @@
 {
-	"title": "WiiU WebExploits",
+	"title": "Menu de exploits",
 	"description": "",
 	"icon": "home",
 	"defaultId": "",
 	"items": [
 		{
 			"id": "553",
-			"title": "Homebrew launcher for 5.5.2/5.5.3",
-			"description": "Run Homebrew apps from your SD card.",
+			"title": "Homebrew Launcher para 5.5.X",
+			"description": "Corre homebrew desde tu SD.",
 			"icon": "bars",
 			"url": "553/index-hax.php"
 		},
 		{
 			"id": "551",
-			"title": "WebExploits for 5.5.1",
+			"title": "WebExploits para 5.5.1",
 			"description": "Version 3.0",
 			"icon": "flag",
 			"items": [
@@ -25,55 +25,55 @@
 					"items": [
 						{
 							"title": "Homebrew Launcher",
-							"description": "Run Homebrew apps from your SD card.",
+							"description": "Corre homebrew desde tu SD.",
 							"icon": "bars",
 							"url": "hbl/index.php"
 						},
 						{
 							"title": "Mocha CFW",
-							"description": "Custom Firmware for non signed titles",
+							"description": "Custom Firmware para títulos ilegítimos.",
 							"icon": "bars",
 							"url": "mocha/index.php"
 						},			
 						{
 							"title": "Loadiine GX2",
-							"description": "Backup Game Loader: Run Games off your SD card.",
+							"description": "Carga juegos convertidos desde tu SD.",
 							"icon": "gamepad",
 							"url": "loadiinegx2/index.php"
 						},
 						{
 							"title": "Standalone Kexploit Loadiine Version (kexploit10)",
-							"description": "Run this before launching Homebrew launcher or Loadiine GX2 if any of them freezes your console.",
+							"description": "Inicia esto antes de lanzar Homebrew Launcher o Loadiine GX2, si alguno congela tu consola.",
 							"icon": "hashtag",
 							"url": "kexploit/loadindex.php"
 						},
 						{
 							"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
-							"description": "Run this before launching Cafiine.",
+							"description": "Inicia esto antes de lanzar Cafiine.",
 							"icon": "hashtag",
 							"url": "kexploit/nonindex.php"
 						},
 						{
 							"title": "AIO Kexploit by Nexocube",
-							"description": "Alternative kexploit: Use this if the above 2 links fail.",
+							"description": "Kexploit Alternativo: USAR SI LOS DOS DE ARRIBA FALLAN.",
 							"icon": "hashtag",
 							"url": "kexploit/aioindex.php"
 						},
 						{
 							"title": "Cafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
+							"description": "Trucos y mods (inicia antes nonloadiine kexploit31).",
 							"icon": "coffee",
 							"url": "cafiine/index.php"
 						},
 						{
 							"title": "SDCafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
+							"description": "Trucos y mods (inicia antes nonloadiine kexploit31).",
 							"icon": "coffee",
 							"url": "sdcafiine/index.php"
 						},
 						{
 							"title": "Remove update",
-							"description": "Remove incomplete updates from the Wii U.",
+							"description": "Elimina actualizaciones incompletas de la Wii U.",
 							"icon": "removeupdate",
 							"url": "removeupdate/index.php"
 						}
@@ -87,49 +87,49 @@
 					"items": [
 						{
 							"title": "Homebrew Launcher",
-							"description": "Run Homebrew apps from your SD card.",
+							"description": "Corre homebrew desde tu SD.",
 							"icon": "bars",
 							"url": "hbl/551hbl.mp4"
 						},
 						{
 							"title": "Loadiine GX2",
-							"description": "Backup Game Loader: Run Games off your SD card.",
+							"description": "Carga juegos convertidos desde tu SD.",
 							"icon": "gamepad",
 							"url": "loadiinegx2/551loadiine.mp4"
 						},
 						{
 							"title": "Standalone Kexploit Loadiine Version (kexploit10)",
-							"description": "Run this before launching Homebrew launcher or Loadiine GX2 if any of them freezes your console.",
+							"description": "Inicia esto antes de lanzar Homebrew Launcher o Loadiine GX2, si alguno congela tu consola.",
 							"icon": "hashtag",
 							"url": "kexploit/551kexploit10.mp4"
 						},
 						{
 							"title": "Standalone Kexploit NON Loadiine Version (kexploit31)",
-							"description": "Run this before launching Cafiine.",
+							"description": "Inicia esto antes de lanzar Cafiine.",
 							"icon": "hashtag",
 							"url": "kexploit/551kexploit31.mp4"
 						},
 						{
 							"title": "AIO Kexploit by Nexocube",
-							"description": "Alternative kexploit: Use this if the above 2 links fail.",
+							"description": "Kexploit Alternativo: USAR SI LOS DOS DE ARRIBA FALLAN.",
 							"icon": "hashtag",
 							"url": "kexploit/aiocode550.mp4"
 						},
 						{
 							"title": "Cafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
+							"description": "Trucos y mods (inicia antes nonloadiine kexploit31).",
 							"icon": "coffee",
 							"url": "cafiine/551cafiine.mp4"
 						},
 						{
 							"title": "SDCafiine",
-							"description": "Cheat Engine (Use nonloadiine kexploit)",
+							"description": "Trucos y mods (inicia antes nonloadiine kexploit31).",
 							"icon": "coffee",
 							"url": "sdcafiine/sdcafiine550.mp4"
 						},
 						{
 							"title": "Remove update",
-							"description": "Remove incomplete updates from the Wii U.",
+							"description": "Elimina actualizaciones incompletas de la Wii U.",
 							"icon": "removeupdate",
 							"url": "removeupdate/551remove.mp4"
 						}
