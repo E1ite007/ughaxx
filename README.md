@@ -1,6 +1,6 @@
 # Unión Gamer HAX (ughax)
 
-Webexploit para Wii U basado en WiiuHaxx, diseñado por y mantendio Gogeta007yBro.
+Webexploit para Wii U basado en WiiuHaxx, diseñado y mantenido por Gogeta007yBro.
 
 Hosteado en:
 
