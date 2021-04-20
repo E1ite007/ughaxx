@@ -12,7 +12,7 @@ Hosteado en:
 
 - http://www.ughax.ga/
 
-- http://www.ughax.qg/
+- http://www.ughax.gq/
 
 
 # Créditos
