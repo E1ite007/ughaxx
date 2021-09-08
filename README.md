@@ -2,7 +2,7 @@
 
 Webexploit para Wii U basado en WiiuHaxx, diseñado y mantenido por Gogeta007yBro, con añadidos para la facilidad de los usuarios.
 
-Hosteado:
+Hosteado en:
 
 - http://www.ughax.tk/
 
